@@ -1,6 +1,6 @@
 # Meat Up
 
-Meat up is an application to host events.
+Meat up is an application to host events and also to eat together.
 
 ## Technologies Used
 
