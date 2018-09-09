@@ -1,6 +1,7 @@
 # Meat Up
 
-Meat up is an application to host events and also to eat together.
+Meat up is an online application to host events over lunch. This allows one to make
+precious use of their lunch time with a nice company to talk to.
 
 ## Technologies Used
 
