@@ -36,8 +36,6 @@ To build and run the development server:
 $ python3 manage.py runserver
 ```
 
-The website will start at http://localhost:8080
-
 ## Updating Database Model
 
 Whenever we change a database model class under `models.py` we need
