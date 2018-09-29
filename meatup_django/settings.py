@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'meatup',
-    'django_extensions',
 ]
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
