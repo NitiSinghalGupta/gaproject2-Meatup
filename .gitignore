@@ -1,5 +1,4 @@
 # Created by https://www.gitignore.io/api/django,python
-meatup/migrations
 
 ### Django ###
 *.log
